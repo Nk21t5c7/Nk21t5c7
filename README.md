@@ -2,13 +2,13 @@
 
 I'm Nodoka, a fullstack developer with hands-on experience in building apps and software. I've got a Master's degree in marine biology (biologging) and background in data analysis. I’m a quick learner who enjoys picking up new tech and working with others to create great products.
 
-Languages:
+**Languages:**  
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,r,py,java)](https://skillicons.dev)
 
-Frameworks & Libraries:
+**Frameworks & Libraries:**  
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,sass)](https://skillicons.dev)
 
-Tools & Technologies:
+**Tools & Technologies:**  
 [![My Skills](https://skillicons.dev/icons?i=docker,npm,supabase,mongodb,firebase,aws,vite,github,figma,ai,ps,codepen)](https://skillicons.dev)
 
 <!--
