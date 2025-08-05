@@ -17,7 +17,7 @@ I'm Nodoka, a fullstack developer with hands-on experience in building apps and 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nk21t5c7&layout=compact&theme=nord_bright)
 
-![Profile Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nk21t5c7&layout=compact&theme=nord_bright)
+![Profile Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nk21t5c7&layout=compact&theme=github)
 
 
 
