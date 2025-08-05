@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Nodoka, a fullstack developer with hands-on experience in building apps and software. I've got a Master's degree in marine biology (biologging) and background in data analysis. I’m a quick learner who enjoys picking up new tech and working with others to create great products.
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,r,py,java,react,nodejs,npm,nextjs,sass,supabase,mongodb,firebase,docker,aws,vite,github,figma,ai,ps,codepen)](https://skillicons.dev)
 <!--
 **Nk21t5c7/Nk21t5c7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
