@@ -6,13 +6,13 @@ I'm Nodoka, a fullstack developer with hands-on experience in building apps and 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,r,py,java)](https://skillicons.dev)
 
 ### 🧩 Frameworks & Libraries  
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,sass,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,threejs,tailwind,sass,materialui)](https://skillicons.dev)
 
 ### 🛠 Tools & Technologies  
-[![My Skills](https://skillicons.dev/icons?i=docker,supabase,mongodb,firebase,aws,vite,matlab,mysql,wordpress,npm,yarn,github,visualstudio,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,supabase,mongodb,firebase,aws,vite,matlab,mysql,wordpress,npm,yarn,github,vscode,androidstudio,eclipse,postman)](https://skillicons.dev)
 
 ### 🎨 Design & Communication  
-[![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,gmail,linkedin,notion,codepen)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,gmail,linkedin,notion,codepen,discord)](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nk21t5c7&layout=compact&theme=nord_bright)
