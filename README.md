@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there🌱 I'm Nodoka! 
 
-I'm Nodoka, a fullstack developer with hands-on experience in building apps and software. I've got a Master's degree in marine biology (biologging) and background in data analysis. I enjoy learning new tech and working with others to create great products.
+I'm a fullstack developer with hands-on experience in building apps and software. I've got a Master's degree in marine biology (biologging) and background in data analysis. I enjoy learning new tech and working with others to create great products.
 
 ### 💻 Languages   
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,r,py,java,ruby)](https://skillicons.dev)
