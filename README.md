@@ -15,9 +15,9 @@ I'm Nodoka, a fullstack developer with hands-on experience in building apps and 
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,gmail,linkedin,notion,codepen,discord)](https://skillicons.dev)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nk21t5c7&layout=compact&theme=nord_bright)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nk21t5c7&layout=compact&theme=nord_bright) -->
 
-<!-- ![Profile Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nk21t5c7&layout=compact&theme=github) -->
+![Profile Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nk21t5c7&layout=compact&theme=github)
 
 
 
