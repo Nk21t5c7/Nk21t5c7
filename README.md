@@ -14,7 +14,7 @@ I'm a fullstack developer with hands-on experience building web and software app
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,supabase,mongodb,firebase,aws)](https://skillicons.dev)
 
 ### 🛠 Development 
-[![My Skills](https://skillicons.dev/icons?i=docker,vite,matlab,wordpress,npm,yarn,github,vscode,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,vite,wordpress,github)](https://skillicons.dev)
 
 ### 🎨 Design 
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps)](https://skillicons.dev)
