@@ -20,7 +20,7 @@ I'm a fullstack developer with hands-on experience building web and mobile appli
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps)](https://skillicons.dev)
 
 ### ⚙️ Other 
-[![My Skills](https://skillicons.dev/icons?i=rstudio,matlab,linkedin,notion,codepen,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arcgis,matlab,linkedin,notion,codepen,discord)](https://skillicons.dev)
 <!-- ### 🤝 Communication  
 [![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,notion,codepen,discord)](https://skillicons.dev) -->
 
