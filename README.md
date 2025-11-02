@@ -1,10 +1,10 @@
-# Hi there🌱 I'm Nodoka! 
+# Hi there 🌱 I'm Nodoka! 
 
 I'm a fullstack developer with hands-on experience building web and mobile applications. I enjoy learning new technologies and creating products that make an impact!
 
 ✨Connect with me: [LinkedIn](https://www.linkedin.com/in/nodoka-hanaki)
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### 💻 Languages   
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,ruby,r,py,java)](https://skillicons.dev)
