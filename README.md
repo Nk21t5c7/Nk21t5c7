@@ -1,8 +1,10 @@
-## Hi there🌱 I'm Nodoka! 
+# Hi there🌱 I'm Nodoka! 
 
 I'm a fullstack developer with hands-on experience building web and mobile applications. I enjoy learning new technologies and creating products that make an impact!
 
 ✨Connect with me: [LinkedIn](https://www.linkedin.com/in/nodoka-hanaki)
+
+## Tech Stack
 
 ### 💻 Languages   
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,ruby,r,py,java)](https://skillicons.dev)
@@ -14,14 +16,10 @@ I'm a fullstack developer with hands-on experience building web and mobile appli
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,supabase,mongodb,firebase,aws)](https://skillicons.dev)
 
 ### 🛠 Development 
-[![My Skills](https://skillicons.dev/icons?i=docker,vite,wordpress,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,vite,wordpress,github,vscode,androidstudio)](https://skillicons.dev)
 
 ### 🎨 Design 
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps)](https://skillicons.dev)
 
 ### ⚙️ Other 
-[![My Skills](https://skillicons.dev/icons?i=arcgis,matlab,linkedin,notion,codepen,discord)](https://skillicons.dev)
-<!-- ### 🤝 Communication  
-[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,notion,codepen,discord)](https://skillicons.dev) -->
-
-
+[![My Skills](https://skillicons.dev/icons?i=matlab,linkedin,notion,codepen,discord)](https://skillicons.dev)
