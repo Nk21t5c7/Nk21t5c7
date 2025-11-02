@@ -2,7 +2,7 @@
 
 I'm a fullstack developer with hands-on experience building web and mobile applications. I enjoy learning new technologies and creating products that make an impact!
 
-✨Connect with me: [LinkedIn](https://www.linkedin.com/in/nodoka-hanaki)
+✨**Connect with me: [LinkedIn](https://www.linkedin.com/in/nodoka-hanaki)**
 
 ## 🧰 Tech Stack
 
