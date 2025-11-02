@@ -2,7 +2,7 @@
 
 I'm a fullstack developer with hands-on experience building web and software applications. I enjoy learning new technologies and creating products that make an impact. My background in Marine Biology (Biologging) and data analysis gives me strong analytical and problem-solving skills.
 
-Connect with me: [LinkedIn](https://www.linkedin.com/in/nodoka-hanaki)
+✨Connect with me: [LinkedIn](https://www.linkedin.com/in/nodoka-hanaki)
 
 ### 💻 Languages   
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,ruby,r,py,java)](https://skillicons.dev)
